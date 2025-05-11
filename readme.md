@@ -1,14 +1,32 @@
-<h1>AMV HUB</h1> 
-<h6><em>We'll probably change the name</em></h6>
-<br>
-<p>AMVHUB is a central hub for people who make not only amvs but edits in general. Tiktok, youtube, instagram. It is a place for specialized mediums for this niche. This allows creators who do not have as much reach to still be able to sell their resources regardless of their total reach. It also gives customers a way for them to feel safe due to us being able to review such products and determine if they are safe or not, copyrighted or not, or a scam or not.</p>
-<br>
+# AMV HUB
 
-<p>Ideas</p>
-<p> A store for all edits 
-<p> Any creator can upload their packs
-<p> Customers can sort through and filter all packs
-<p> Customers can find popular packs, on sale, etc
-<p> An AI that checks report claims.
-<p> When customer joins, we ask them a bunch of questions to make a profile on the then suggest them packs. (Who their favorite editors are, whats their editing style, the music they listen to, what they edit on, )
-<p>
+###### _We'll probably change the name_
+
+AMV HUB is a central hub for people who make not only AMVs but edits in general — TikTok, YouTube, Instagram. It is a place for specialized mediums in this niche. This allows creators who may not have much reach to still be able to sell their resources. It also gives customers peace of mind, as we can review products to determine if they're safe, copyrighted, or scams.
+
+## Ideas
+
+- A store for all types of edits
+- Any creator can upload their packs
+- Customers can sort and filter all packs
+- Discover popular, on-sale, or trending packs
+- AI that checks and verifies reported claims
+- Personalized onboarding: ask questions to build a profile and recommend packs
+  - Who their favorite editors are
+  - Their editing style
+  - The music they listen to
+  - What software they use
+
+## Check List
+
+- [✅] Create a database
+- [ ] Connect to database
+- [ ] Create a UI with Figma
+
+## Notes
+
+**Technologies used:**
+
+- Node.js for backend
+- React for frontend
+- Considering React Native for mobile
